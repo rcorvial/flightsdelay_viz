@@ -2,4 +2,4 @@
 
 Análisis del espacio aéreo de Estados Unidos (2015)
 
-<iframe width="600" height="800" src="https://datastudio.google.com/embed/reporting/a70acb1c-16ae-4d02-8602-8fea6635de44/page/1M" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe width="1250" height="1000" src="https://datastudio.google.com/embed/reporting/76753ebb-71e0-44bf-94a4-b74d53acbacd/page/TTyiC" frameborder="0" style="border:0" allowfullscreen></iframe>
